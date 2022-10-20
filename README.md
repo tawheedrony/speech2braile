@@ -1,5 +1,4 @@
-# speech2braile
-Speech to Braille Generation for people with Auditory &amp; Visual Impairment
+# Speech to Braille Generation for people with Auditory &amp; Visual Impairment
 
 
 We have developed this project as part of our course titled 'Microprocessor & Embedded System'. 
